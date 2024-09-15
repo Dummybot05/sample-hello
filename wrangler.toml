@@ -1,0 +1,4 @@
+name = "simple-hello"
+main = "index.js"
+compatibility_date = "2024-09-15"
+compatibility_flags = ["nodejs_compat"]
